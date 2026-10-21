@@ -6,7 +6,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 theme: stellar
 
-url: https://你的GitHub用户名.github.io/kkle-blog
+url: https://kele444.github.io/kkle-blog
 root: /kkle-blog/
 
 permalink: posts/:title/
