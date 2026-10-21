@@ -6,8 +6,8 @@ language: zh-CN
 timezone: Asia/Shanghai
 theme: stellar
 
-url: https://kele444.github.io/kkle-blog
-root: /kkle-blog/
+url: https://kkele.cn
+root: /
 
 permalink: posts/:title/
 index_generator:
