@@ -1,6 +1,9 @@
 leftbar:
   brand:
     style: regular
+    image:
+      src: /images/avatar.jpg
+      variant: avatar
     name: Kkele Blog
     tagline: 在无意义中热爱
     href: /
