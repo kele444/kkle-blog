@@ -1,0 +1,16 @@
+title: Kkele Blog
+subtitle: 在无意义中热爱
+description: 一个机械专业学生的见闻与记录
+author: Kkele
+language: zh-CN
+timezone: Asia/Shanghai
+theme: stellar
+
+url: https://你的GitHub用户名.github.io/kkle-blog
+root: /kkle-blog/
+
+permalink: posts/:title/
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
