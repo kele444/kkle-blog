@@ -21,13 +21,14 @@ leftbar:
     - id: archives
       title: 归档
       url: /archives/
+    - id: photo
+      title: 摄影
+      url: /photo/
     - id: about
       title: 关于
       icon: default:profile
       url: /about/
-    - id: photo
-      title: 摄影
-      url: /photo/
+      
    
 
 topbar:
