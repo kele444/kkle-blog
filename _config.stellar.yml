@@ -25,6 +25,10 @@ leftbar:
       title: 关于
       icon: default:profile
       url: /about/
+    - id: photo
+      title: 摄影
+      url: /photo/
+      icon: default:camera
 
 topbar:
   enabled: false
