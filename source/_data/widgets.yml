@@ -1,0 +1,17 @@
+welcome:
+  layout: markdown
+  title: 欢迎来到 Kkele Blog！
+  content: |
+    我是机械专业的学生，在这里记录学习、折腾和日常。
+    有问题欢迎留言。
+
+entry:
+  layout: linklist
+  title: 快速入口
+  view: grid
+  columns: 1
+  items:
+    - title: 关于我
+      url: /about/
+    - title: 开往
+      url: https://travellings.cn/
