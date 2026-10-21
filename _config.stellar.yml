@@ -28,7 +28,7 @@ leftbar:
     - id: photo
       title: 摄影
       url: /photo/
-      icon: default:camera
+   
 
 topbar:
   enabled: false
