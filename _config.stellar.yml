@@ -1,0 +1,45 @@
+leftbar:
+  brand:
+    style: regular
+    name: Kkele Blog
+    tagline: 在无意义中热爱
+    href: /
+  menu:
+    - id: post
+      title: 文章
+      icon: default:documents
+      url: /
+    - id: categories
+      title: 分类
+      url: /categories/
+    - id: tags
+      title: 标签
+      url: /tags/
+    - id: archives
+      title: 归档
+      url: /archives/
+    - id: about
+      title: 关于
+      icon: default:profile
+      url: /about/
+
+topbar:
+  enabled: false
+
+appearance:
+  preset: glass
+  color_scheme: auto
+  backgrounds:
+    leftbar:
+      type: gradient
+  colors:
+    primary: '#3aa0d8'
+    accent: '#f0a04b'
+
+profiles:
+  home:
+    leftbar:
+      widgets: [welcome, entry, recent]
+  post:
+    rightbar:
+      widgets: [toc]
